@@ -1,6 +1,6 @@
 ## Interpretable Sequence Classification via Decision Set
 
-Source code implementation for the paper "Interpretable Sequence Classification via Decision Set."
+Source code implementation for the paper "Interpretable Sequence Classification via Decision Set".
 
 ---
 

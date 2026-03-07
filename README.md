@@ -22,6 +22,8 @@ We recommend using `Python==3.7`.
 ---
 
 #### Cite
+If you find this work useful, please consider citing:
+
 ```bibtex
 @ARTICLE{11397519,
   author={Li, Pengju and Dong, Junjie and Jiang, Mudi and Liu, Xinying and Hu, Lianyu and He, Zengyou},
@@ -35,7 +37,7 @@ We recommend using `Python==3.7`.
 }
 ```
 
-If you find this work useful, please consider citing:
+
 
 
 
